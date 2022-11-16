@@ -1,4 +1,4 @@
-# Pytoh-para-finan-as---Aula-2
+# Python-para-financas---Aula-2
 Taxa de retorno simples e logarítmica - Curso de Python para Finanças na Udemy
 
 - Fórmula para calcular taxa de retorno de diversas ações do mercado brasileiro;
